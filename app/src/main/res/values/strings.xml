@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Muslim</string>
+    <string name="time_remains">%1s Lagi Menuju Adzan %2s</string>
+    <string name="location">Genteng 60272, Kota Surabaya, Jawa Timur</string>
+    <string name="date">Rabu, 4 Juli 2018 - %1s</string>
+    <string name="hour">17.00</string>
+    <string name="closest">Masjid Terdekat</string>
+    <string name="activity">Aktivitas Masjid</string>
+    <string name="info">Tentang Masjid</string>
+    <string name="waktu_sholat">Sekarang waktunya sholat %1s</string>
+
+    <string name="channel_id">channel_01</string>
+    <string name="channel_name">Smart Muslim Channel</string>
+</resources>
